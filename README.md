@@ -21,12 +21,12 @@
 <br/>  
 
 
-## My Skill Set  
+## Narzędzia, których używam:  
 <table><tr><td valign="center" width="100%">
 
 
 
-### Narzędzia, których używam:  
+  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
@@ -50,7 +50,7 @@
 <br/>  
 
 
-## Connect with me  
+## Znajdziesz mnie tutaj 
 <div align="center">
 <a href="https://linkedin.com/in/dominik-deptula" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -76,7 +76,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+ 
   
 
 <br/>  
@@ -96,4 +96,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
