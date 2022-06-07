@@ -6,10 +6,10 @@
 # <div align="center">Cześć 👋, Mam na imię Dominik</div>  
   
 
-### <div align="center">Początkujący programista, student I roku Informatyki i Ekonometrii ze specjalnością aplikacje informatyczne w biznesie 🎓</div>  
+### <div align="center">Początkujący programista, student II roku Informatyki i Ekonometrii ze specjalnością aplikacje informatyczne w biznesie 🎓</div>  
   
 
-- 🌱 Aktualnie uczę się Java, MSSQL oraz JavaScript  
+- 🌱 Aktualnie uczę się C#, .NET oraz MSSQL  
   
 
 - 👯 Jeśli chcesz zrobić jakiś wspólny projekt, to jestem otwarty na propozycje!  
